@@ -7,9 +7,9 @@ terraform {
 }
 
 provider "aci" {
-  username = var.user.username
-  password = var.user.password
-  url      = var.user.url
+  username = "USERNAME"
+  password = "PASSWORD"
+  url      = "HOSTNAME"
   insecure = true
 }
 
