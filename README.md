@@ -3,7 +3,7 @@
 This repository contains two Terraform demos automating Cisco ACI that were presented during the **Datacenter Automation Days** webinars in AMER. 
 # Demos
 ### Demo 1
-Extremely basic Terraform configuration file automating deployment of a basic 3-tier web application on Cisco ACI. No variables, flow control, etc.
+Extremely basic Terraform configuration file automating deployment of a basic 3-tier web application on Cisco ACI. No variables, flow control, nested loops, etc.
 
 
 
