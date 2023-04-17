@@ -17,10 +17,10 @@ Same ACI configuration as Demo 1 but showcases variables, flow control, etc.
 ### Demo 3
 Terraform config to enable communication between EPG and L3Out across ACI fabric. Showcases variables, flow control, and module usage.
 <p align="center">
-<img src="imgs/demo3root.png" alt= "" width="60%" height="60%">
+<img src="imgs/demo3root.png">
 </p>
 <p align="center">
-<img src="imgs/demo3l3out.png" alt= "" width="60%" height="60%">
+<img src="imgs/demo3l3out.png">
 </p>
 
 # Instructions
