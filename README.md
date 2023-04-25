@@ -3,13 +3,13 @@
 This repository contains three Terraform demos automating Cisco ACI that were presented during the **Datacenter Automation Days** webinars in AMER. 
 # Demos
 ### Demo 1
-Extremely basic Terraform configuration file automating deployment of a basic Cisco ACI configuration. Creates Tenant, VRF, AP, EPG, with no variables, flow control, nested loops, etc.
+Extremely basic Terraform configuration file automating deployment of a basic Cisco ACI configuration. Creates single Tenant, VRF, AP, EPG, with no variables, flow control, nested loops, etc.
 <p align="center">
 <img src="imgs/demo1.svg" alt= "" width="60%" height="60%">
 </p>
 
 ### Demo 2
-Advanced Terraform configuration automating deployment of a basic 3-tier Web Application. Creates Tenant, VRF, BDs, subnets, AP, and EPGs for each tier. Showcases variables, flow control, nested loops.
+Advanced Terraform configuration automating deployment of a basic 3-tier Web Application. Creates single Tenant, VRF, and AP; creates BDs, subnets, and EPGs for each tier. Showcases variables, flow control, nested loops.
 <p align="center">
 <img src="imgs/demo2.svg" alt= "" width="60%" height="60%">
 </p>
