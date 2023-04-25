@@ -15,7 +15,7 @@ Advanced Terraform configuration automating deployment of a basic 3-tier Web App
 </p>
 
 ### Demo 3
-Terraform config to enable communication between EPG and L3Out across ACI fabric. Showcases variables, flow control, and example L3Out module.
+Terraform configuration to enable communication between EPG and L3Out across ACI fabric. Showcases variables, flow control, and example L3Out module.
 <p align="center">
 <img src="imgs/demo3root.png">
 </p>
@@ -26,7 +26,7 @@ Terraform config to enable communication between EPG and L3Out across ACI fabric
 # Instructions
 These playbooks have been tested with Terraform version 1.3.1 and Cisco ACI collection version 2.6.0
 
-To run the demo, use the following commands:
+To run the demo, add login parameters and use the following commands:
 ```
 $ terraform init
 $ terraform plan
